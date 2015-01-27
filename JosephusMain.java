@@ -2,7 +2,7 @@
 //                   ALL STUDENTS COMPLETE THESE SECTIONS
 // Title:            Josephus
 // Files:            JosephusMain.java, CircularLinkedList.java, 
-//					 CircularListADT.java, ListNode.java
+//		     CircularListADT.java, ListNode.java
 // Semester:         CS367 Fall 2013
 //
 // Author:           Navneet Reddy
